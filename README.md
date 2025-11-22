@@ -1,4 +1,4 @@
-# Simple Power BI Cookeys Dashboard
+# Power BI Cookeys Dashboard
 
 This repository contains a simple sales dashboard for a fictional cookie company. The project uses Microsoft Power BI to create visualizations based on data from an Excel spreadsheet.
 
